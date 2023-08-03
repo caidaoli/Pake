@@ -3,7 +3,7 @@
     <img src=https://gw.alipayobjects.com/zos/k/fa/logo-modified.png width=138/>
 </p>
 <h1 align="center">Pake</h1>
-<p align="center"><strong>很简单的用 Rust 打包网页生成很小的桌面App</strong></p>
+<p align="center"><strong>利用 Rust 轻松构建轻量级多端桌面应用</strong></p>
 <div align="center">
     <a href="https://twitter.com/HiTw93" target="_blank">
     <img alt="twitter" src="https://img.shields.io/badge/follow-Tw93-red?style=flat-square&logo=Twitter"></a>
@@ -58,7 +58,7 @@
     </tr>
     <tr>
         <td><img src=https://cdn.fliggy.com/upic/Ld5ZCJ.png width=600/></td>
-        <td><img src=https://cdn.fliggy.com/upic/7QUfi3.png width=600/></td>
+        <td><img src=https://gw.alipayobjects.com/zos/k/95/bcGBut.png width=600/></td>
     </tr>
     <tr>
       <td>YouTube Music
@@ -74,7 +74,7 @@
     </tr>
     <tr>
         <td><img src=https://cdn.fliggy.com/upic/iz3mtQ.png width=600/></td>
-        <td><img src=https://cdn.fliggy.com/upic/s4ZLNC.jpg width=600/></td>
+        <td><img src=https://gw.alipayobjects.com/zos/k/pn/1.jpg width=600/></td>
     </tr>
     <tr>
         <td>LiZhi
@@ -90,7 +90,7 @@
     </tr>
     <tr>
         <td><img src=https://cdn.fliggy.com/upic/nYEKqN.jpg width=600/></td>
-        <td><img src=https://cdn.fliggy.com/upic/0C9lju.jpg width=600/></td>
+        <td><img src=https://gw.alipayobjects.com/zos/k/r7/0C9lju.jpg width=600/></td>
     </tr>
     <tr>
         <td>Qwerty
@@ -106,7 +106,7 @@
     </tr>
     <tr>
         <td><img src=https://cdn.fliggy.com/upic/i2eg6G.png width=600/></td>
-        <td><img src=https://cdn.fliggy.com/upic/fS1lVi.jpg width=600/></td>
+        <td><img src=https://cdn.fliggy.com/upic/mUzOek.jpg width=600/></td>
     </tr>
         <tr>
         <td>Flomo
@@ -122,7 +122,7 @@
     </tr>
     <tr>
         <td><img src=https://gw.alipayobjects.com/zos/k/30/RoUSUf.png width=600/></td>
-        <td><img src=https://cdn.fliggy.com/upic/yJVwyi.png width=600/></td>
+        <td><img src=https://gw.alipayobjects.com/zos/k/89/yJVwyi.png width=600/></td>
     </tr>
 </table>
 
@@ -162,7 +162,7 @@
 </kbd>
 <br/><br/>
 
-**Pake 提供了命令行工具，可以更快捷方便地一键自定义打你需要的包，详细可见 [文档](./bin/README.md)。**
+**Pake 提供了命令行工具，可以更快捷方便地一键自定义打你需要的包，详细可见 [文档](./bin/README_CN.md)。**
 
 ```bash
 # 使用 npm 进行安装
@@ -272,6 +272,13 @@ Pake 的发展离不开这些 Hacker 们，一起贡献了大量能力，也欢�
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/jeasonnow">
+            <img src="https://avatars.githubusercontent.com/u/16950207?v=4" width="90;" alt="jeasonnow"/>
+            <br />
+            <sub><b>Santree</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/QingZ11">
             <img src="https://avatars.githubusercontent.com/u/38887077?v=4" width="90;" alt="QingZ11"/>
             <br />
@@ -283,13 +290,6 @@ Pake 的发展离不开这些 Hacker 们，一起贡献了大量能力，也欢�
             <img src="https://avatars.githubusercontent.com/u/33340988?v=4" width="90;" alt="exposir"/>
             <br />
             <sub><b>孟世博</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/jeasonnow">
-            <img src="https://avatars.githubusercontent.com/u/16950207?v=4" width="90;" alt="jeasonnow"/>
-            <br />
-            <sub><b>Santree</b></sub>
         </a>
     </td>
     <td align="center">
